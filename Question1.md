@@ -64,7 +64,7 @@ This section documents the steps used in the C code to find nth Fibonacci number
 
 ***
 ***
-# **Steps to create "Hangman" game: 
+# **Steps to create "Hangman" game:** 
 This section documents the steps used in the C code to create Hangman Game.
 
 * ## Step 1: List for random words.
@@ -222,7 +222,7 @@ This section documents the steps used in the C code to create Rock-Paper-Scissor
 * ## Step 4: Limit on number of attempts
   End the game if the number of attempts exceeds the limit.
   ```c
-  if(attempts>l)
+  if(attempts>10)
   {
       printf("\nToo many attempts. You lose.\nThe number is %d.\n",num);
       break;
