@@ -6,7 +6,7 @@ Hello. My name is Ramya Sahithi. My department is Computer Science with AI. I am
 ***
 # My Hobbies:
 ***Playing Games***: I enjoy playing games in my free time. I play both mobile and PC games.
-Some of my favourites include: Sudoku,Plants vs Zombies, Bearbarians,Tekken 3,Subway Surfers,Among us etc.
+Some of my favourites include: Sudoku,Plants vs Zombies, Bearbarians,Subway Surfers,Among us etc.
 
 ***Reading Comics***: Reading Comic books and Story books is my new hobby.
 
